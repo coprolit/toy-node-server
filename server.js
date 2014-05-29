@@ -9,7 +9,7 @@ var app = require('express')()
     , server = require('http').createServer(app)
     , io = require('socket.io').listen(server);
 
-server.listen(80, function(){
+server.listen(8080, function(){
     console.log('Express server started on port %s', server.address().address + ":" + server.address().port);
 });
 
