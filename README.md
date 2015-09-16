@@ -1,4 +1,4 @@
-toy-node-server
+Toy node server
 ===============
 
-Toy node.js server for experimenting on Linux MiniPC stick hardware
+Basic node.js server setup for experimenting on Linux MiniPC stick hardware. Implementing socket.io and Express.
